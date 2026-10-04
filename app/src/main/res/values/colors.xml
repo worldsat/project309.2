@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="espresso_primary">#2B1409</color>
+    <color name="espresso_on_primary">#FFFFFF</color>
+    <color name="espresso_primary_container">#43281C</color>
+    <color name="caramel_secondary">#8B4F20</color>
+    <color name="caramel_secondary_container">#FEAF77</color>
+    <color name="sand_surface">#FDF8F5</color>
+    <color name="sand_on_surface">#1C1B1A</color>
+    <color name="sand_surface_container">#F2EDEA</color>
+</resources>
