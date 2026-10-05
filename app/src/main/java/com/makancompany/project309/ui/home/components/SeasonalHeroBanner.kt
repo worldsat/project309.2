@@ -47,7 +47,7 @@ fun SeasonalHeroBanner(
     Box(
         modifier = modifier
             .fillMaxWidth()
-            .padding(horizontal = 16.dp, vertical = 4.dp)
+            .padding( 16.dp)
             .height(200.dp)
             .shadow(4.dp, RoundedCornerShape(24.dp))
             .clip(RoundedCornerShape(24.dp))

@@ -46,7 +46,7 @@ fun BrewCraftClubCard(
     Box(
         modifier = modifier
             .fillMaxWidth()
-            .padding(horizontal = 16.dp, vertical = 4.dp)
+            .padding(horizontal = 16.dp, vertical = 8.dp)
             .clip(RoundedCornerShape(24.dp))
             .background(SandSurfaceContainerLow)
             .padding(16.dp)
